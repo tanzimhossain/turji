@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zapier.com	TRUE	/	FALSE	1999999999	zapidentity	0
+zapier.com	TRUE	/	FALSE	1999999999	zapforeversession	55xvd1g8nno4cc0gsftiymmpg4x72lj8
+zapier.com	TRUE	/	FALSE	1999999999	mng517	never
+zapier.com	TRUE	/	FALSE	1999999999	SameSite	None
+
